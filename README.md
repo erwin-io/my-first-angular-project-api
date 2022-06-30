@@ -1,2 +1,2 @@
-# book-inventory-app
-book-inventory-app
+# my-first-angular-project-api
+my-first-angular-project-api
